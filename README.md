@@ -8,4 +8,4 @@ A growth mindset is important for learning new skills effectively. People with f
 1. **Some people have been doing this for years, so don't try to compete. Learn from them**
 1. **Take a step back and look at the progress you've already made. It shows that you will continue to make progress**
 
-![Inspirational quote](s3.amazonaws.com/media.briantracy.com/blog/wp-content/uploads/2015/12/04093022/make-your-life-a-masterpiece-brian-tracy-motivational-quotes.png)
+> *All our dreams can come true if we have the courage to pursue them - Walt Disney*
