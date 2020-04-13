@@ -10,4 +10,4 @@ A growth mindset is important for learning new skills effectively. People with f
 
 > *All our dreams can come true if we have the courage to pursue them - Walt Disney*
 
-This page was created by Josh Williams. Please check out my GitHub [here](https://github.com/jswill88)
+This page was created by Josh Williams. Please check out my GitHub: [https://github.com/jswill88](https://github.com/jswill88)
