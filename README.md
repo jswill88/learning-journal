@@ -1,17 +1,10 @@
-# learning-journal
-## Code 102 learning journal
-### this would be an h3
+### Code 102 learning journal
+# Growth Mindset
 
-### growth mindset
-- this is my irst reminder
-- numero dos
-- last rminder
+A growth mindset is important for learning new skills effectively. People with fixed mindsets will not have the drive to accomplish new goals, because they will believe that their current skill level will not change with study and practice. They will look at successful people and believe that their success is a result of innate talent. People with growth mindsets know that success is the result of practice, study, and determination. They know that failure is part of the process, and they will not be discouraged when faced with difficult tasks. This is important for anybody who is taking an intennse course like this, and it is important for learning any new skill in the future. :muscle: :punch:
 
-1. this is a numbered list
-1. this is more list
-1. it's a list
+### Reminders
+1. this is my irst reminder
+1. numero dos
+1. last rminder
 
-# new list
-2. ok tyrig this
-2. another list
-2. list
