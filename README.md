@@ -9,3 +9,5 @@ A growth mindset is important for learning new skills effectively. People with f
 1. **Take a step back and look at the progress you've already made. It shows that you will continue to make progress**
 
 > *All our dreams can come true if we have the courage to pursue them - Walt Disney*
+
+This page was created by Josh Williams. Please check out my GitHub: https://github.com/jswill88
