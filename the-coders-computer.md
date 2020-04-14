@@ -24,3 +24,14 @@
 * An all in one software package
 * Has text editor, file manager, compiler, and debugger
 * Will be more useul for a more experienced programmer
+
+
+# Basic Terminal Usage Terms
+* pwd = print working directory
+* ls = list contents of a directory
+* / = home directory
+* . = current directory
+* .. = parent directory
+* cd = change directory
+* file = obtain information about file type
+* ls -a = list contents of a directory, including hidden files
