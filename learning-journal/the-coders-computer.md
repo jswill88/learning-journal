@@ -3,8 +3,8 @@
 
 ### Basic Text Editor
 * Will already be on your computer
-* Has only the most basic function
-* Has unnecessary features for coding such as bold, italics, and underlining
+* Has only the most basic functions
+* Has unnecessary features for coding such as bold, italics, and underline
 * Will not help you recognize errors in code
 
 ### Text Editor for Coding

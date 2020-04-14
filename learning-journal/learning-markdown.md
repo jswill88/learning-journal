@@ -17,7 +17,7 @@
 #### Image
 * ```![Alt Text](url)```
 #### Links
-* Urls automatically become links
+* URLs automatically become links
 * ```[Google](www.google.com)``` = [Google](www.google.com)
 #### Table
 
