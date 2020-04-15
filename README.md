@@ -6,5 +6,6 @@ Table of Contents
 * [The Coder's Computer](./learning-journal/the-coders-computer.md)
 * [Revisions and the Cloud](./learning-journal/revisions-and-the-cloud.md)
 * [Structure Web Pages in HTML](./learning-journal/structure-pages-html.md)
+* [Design Web Pages with CSS](./learning-journal/design-web-pages-with-css.md)
 
 This page was created by Josh Williams. He is a musician and budding programmer. Please check out his GitHub: <https://github.com/jswill88>
