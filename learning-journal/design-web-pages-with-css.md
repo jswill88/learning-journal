@@ -1,7 +1,7 @@
 # Design Web Pages with CSS
-## Introducting CSS
+## Introducing CSS
 * CSS properties affect how elements are displayed
-* CSS can be linked in to HTML in the head (exernal CSS) or can be
+* CSS can be linked in to HTML in the head (external CSS) or can be
  used in the `<style>` section (internal CSS)
  * There are a variety of CSS selectors, such as universal, type, class,
  or ID
@@ -28,4 +28,4 @@
   * Lightness: 0%(white) - 100%(black)
   * Alpha - 0-1 like rgba
   * Example: `hsla(0, 100%, 100%, .5)`
-  
+
