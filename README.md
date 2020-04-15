@@ -7,5 +7,6 @@ Table of Contents
 * [Revisions and the Cloud](./learning-journal/revisions-and-the-cloud.md)
 * [Structure Web Pages in HTML](./learning-journal/structure-pages-html.md)
 * [Design Web Pages with CSS](./learning-journal/design-web-pages-with-css.md)
+* [Dynamic Web Pages with JavaScript](./learning-journal/dynamic-web-pages-with-js.md)
 
 This page was created by Josh Williams. He is a musician and budding programmer. Please check out his GitHub: <https://github.com/jswill88>
