@@ -10,5 +10,6 @@ Table of Contents
 * [Dynamic Web Pages with JavaScript](./learning-journal/dynamic-web-pages-with-js.md)
 * [Computer Architecture and Logic](./learning-journal/computer-arch-and-logic.md)
 * [Programming with JavaScript](./learning-journal/programming-with-javascript.md)
+* [Operators and Loops](./learning-journal/operators-and-loops.md)
 
 This page was created by Josh Williams. He is a musician and budding programmer. Please check out his GitHub: <https://github.com/jswill88>
